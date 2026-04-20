@@ -41,23 +41,7 @@ The system follows a **client-server architecture**:
 5. Backend returns result to frontend
 6. Frontend displays similarity result
 
----
-
-## 🔹 Project Screenshots
-
-*(Add your screenshots here after running the project)*
-
-### 🖥️ Input Interface
-
-* Two text input fields
-* "Check Similarity" button
-
-### 📊 Output Display
-
-* Similarity score (e.g., 0.85)
-* Result: Similar / Not Similar
-
----
+--
 
 ## 🔹 Technologies Used
 
